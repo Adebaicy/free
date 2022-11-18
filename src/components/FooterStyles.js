@@ -10,8 +10,6 @@ export const Box = styled.div`
 
 background:  #00296B;
 
-position: absolute;
-bottom: 0;
 width:100%;
 margin : 0 auto;
 
