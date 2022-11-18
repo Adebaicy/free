@@ -28,6 +28,8 @@ function Item(props: BoxProps) {
 export default function JustifyContent() {
   return (
     <div style={{ width: '100%' }}>
+
+
       <Box
         sx={{
           display: 'flex',

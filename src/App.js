@@ -1,4 +1,4 @@
-
+import FlexDirection from './components/faq.js';
 import './App.css';
 import DirectionStack from './components/div.js';
 import JustifyContent from './components/card.js';
@@ -10,7 +10,7 @@ function App(){
   return(<div>
     <MediaCard/>
     <JustifyContent/>
-
+<FlexDirection/>
     <Footer/></div>);
 }
 
