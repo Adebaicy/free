@@ -3,16 +3,16 @@ import styled from 'styled-components';
 
 export const Hor = styled.hr`
 
-
+width: 100%;
 
 `
 export const Box = styled.div`
-padding: 10px 10px;
+
 background:  #00296B;
 
 position: absolute;
 bottom: 0;
-width:90%;
+width:100%;
 margin : 0 auto;
 
 
@@ -34,7 +34,7 @@ export const Column = styled.div`
 display: flex;
 flex-direction: column;
 text-align: left;
-margin-left: 60px;
+
 `;
 
 export const Row = styled.div`

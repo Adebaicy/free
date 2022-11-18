@@ -64,12 +64,14 @@ return (
 		
 					</Column>
 					
+				
 		</Row>
 	
+	<Hor/>
 
 	</Container>
 
-	<Hor/>
+	
 	</Box>
 );
 };
